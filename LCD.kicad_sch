@@ -407,7 +407,7 @@
   (symbol (lib_id "power:Earth") (at 121.92 111.76 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 592a4ea6-aacc-43b7-afb0-641bbbcb127d)
-    (property "Reference" "#PWR?" (at 128.27 111.76 0)
+    (property "Reference" "#PWR014" (at 128.27 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 125.73 111.76 0)
@@ -423,7 +423,7 @@
     (instances
       (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/2a0acbe2-314c-45ae-b756-7238c9fcb4d8"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -432,7 +432,7 @@
   (symbol (lib_id "power:+5V") (at 135.89 96.52 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 60958405-164c-4751-a353-4ae5937c8865)
-    (property "Reference" "#PWR?" (at 139.7 96.52 0)
+    (property "Reference" "#PWR015" (at 139.7 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 134.62 100.33 0)
@@ -448,7 +448,7 @@
     (instances
       (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/2a0acbe2-314c-45ae-b756-7238c9fcb4d8"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -497,7 +497,7 @@
   (symbol (lib_id "power:Earth") (at 152.4 95.25 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b82667a1-76dc-4d1a-8a0f-1cef6b2d1ca5)
-    (property "Reference" "#PWR?" (at 158.75 95.25 0)
+    (property "Reference" "#PWR016" (at 158.75 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 156.21 95.25 0)
@@ -513,7 +513,7 @@
     (instances
       (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/2a0acbe2-314c-45ae-b756-7238c9fcb4d8"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -522,7 +522,7 @@
   (symbol (lib_id "power:+5V") (at 110.49 111.76 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d7a89a08-0cf9-4e15-b798-384785112e45)
-    (property "Reference" "#PWR?" (at 114.3 111.76 0)
+    (property "Reference" "#PWR013" (at 114.3 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 105.41 111.76 0)
@@ -538,7 +538,7 @@
     (instances
       (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/2a0acbe2-314c-45ae-b756-7238c9fcb4d8"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
