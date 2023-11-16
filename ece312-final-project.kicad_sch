@@ -669,19 +669,19 @@
     (uuid f96f2c1c-8e22-478d-801c-b2d5f7a12e4c)
   )
 
-  (hierarchical_label "B1" (shape input) (at 153.67 58.42 90) (fields_autoplaced)
+  (hierarchical_label "B1" (shape output) (at 153.67 58.42 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0c77c6ba-909d-4987-8007-66e3f19fe339)
   )
-  (hierarchical_label "D4" (shape input) (at 157.48 132.08 270) (fields_autoplaced)
+  (hierarchical_label "D4" (shape bidirectional) (at 157.48 132.08 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 154053b5-8218-4c93-b631-a3c24501cf24)
   )
-  (hierarchical_label "B3" (shape input) (at 158.75 58.42 90) (fields_autoplaced)
+  (hierarchical_label "B3" (shape output) (at 158.75 58.42 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 284b5561-7f3a-482e-8058-6db235dddcd4)
   )
-  (hierarchical_label "G2" (shape input) (at 175.26 95.25 0) (fields_autoplaced)
+  (hierarchical_label "G2" (shape output) (at 175.26 95.25 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 336f1066-5bdb-4f26-8839-e70c24698c01)
   )
@@ -693,7 +693,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3830ec6e-7dcd-401e-80fb-a996422483cb)
   )
-  (hierarchical_label "B4" (shape input) (at 161.29 58.42 90) (fields_autoplaced)
+  (hierarchical_label "B4" (shape output) (at 161.29 58.42 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 49fa392f-afc6-49c1-82b9-e2109d8c59c2)
   )
@@ -701,15 +701,15 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 536e8b32-52e5-4a7e-a9c9-86dbcfedfc1d)
   )
-  (hierarchical_label "G1" (shape input) (at 175.26 92.71 0) (fields_autoplaced)
+  (hierarchical_label "G1" (shape output) (at 175.26 92.71 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 5dc57d38-e9c0-48c7-9b61-1445c1ab7224)
   )
-  (hierarchical_label "D6" (shape input) (at 162.56 132.08 270) (fields_autoplaced)
+  (hierarchical_label "D6" (shape bidirectional) (at 162.56 132.08 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 61d49938-7e47-48d7-a6d3-d379d9b298d2)
   )
-  (hierarchical_label "D7" (shape input) (at 165.1 132.08 270) (fields_autoplaced)
+  (hierarchical_label "D7" (shape bidirectional) (at 165.1 132.08 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid be8cc88b-da18-4886-9207-16aa8fde2de9)
   )
@@ -721,11 +721,11 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid dc1c61bd-d589-460e-a7b7-8f0ee7953d9e)
   )
-  (hierarchical_label "B2" (shape input) (at 156.21 58.42 90) (fields_autoplaced)
+  (hierarchical_label "B2" (shape output) (at 156.21 58.42 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid df7520e5-6599-48a1-8542-613c623de455)
   )
-  (hierarchical_label "D5" (shape input) (at 160.02 132.08 270) (fields_autoplaced)
+  (hierarchical_label "D5" (shape bidirectional) (at 160.02 132.08 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid e4f94f9a-fbea-48d4-824a-ed05ee78472c)
   )
@@ -755,7 +755,7 @@
     )
     (pin "1" (uuid 876d16e3-609a-4063-a917-2ada14b7b585))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35"
           (reference "#PWR?") (unit 1)
         )
@@ -807,7 +807,7 @@
     (pin "8" (uuid 43d45213-b8bb-4f3e-a17a-0d52c8aa799a))
     (pin "9" (uuid 646c4d3c-9d61-41d0-b503-c482f408c095))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35"
           (reference "U1") (unit 1)
         )
@@ -833,7 +833,7 @@
     (pin "1" (uuid 3d5d1b0d-c586-4c9a-9fd3-a80733954395))
     (pin "2" (uuid f4e796b1-fb18-4e75-aeda-56b2f4224fcf))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35"
           (reference "Y1") (unit 1)
         )
@@ -858,7 +858,7 @@
     )
     (pin "1" (uuid 9941e8b8-1448-4c01-87df-11d17d5fc8c7))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35"
           (reference "#PWR?") (unit 1)
         )
@@ -883,7 +883,7 @@
     )
     (pin "1" (uuid 88ccea0c-4d27-4b6b-99d1-470f947bc449))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35"
           (reference "#PWR?") (unit 1)
         )
@@ -909,7 +909,7 @@
     (pin "1" (uuid 008bdc4b-45a6-416c-ae53-0f5d2607da8d))
     (pin "2" (uuid 34054366-65e6-470f-b93d-34ee2e8a0c8d))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35"
           (reference "D1") (unit 1)
         )
@@ -935,7 +935,7 @@
     (pin "1" (uuid b0d7d624-3f68-4e0e-8553-8b39184b3911))
     (pin "2" (uuid 138a0eda-a5d0-40e1-97a3-b4bcd8773f16))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35"
           (reference "R1") (unit 1)
         )
@@ -954,7 +954,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35" (page "4"))
       )
     )
@@ -971,7 +971,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35" (page "3"))
       )
     )
@@ -988,7 +988,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35" (page "2"))
       )
     )
@@ -1005,7 +1005,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35" (page "5"))
       )
     )

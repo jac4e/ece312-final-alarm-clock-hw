@@ -182,7 +182,7 @@
     )
     (pin "1" (uuid 1e7cb4b5-1ecb-4f2d-8936-b008b158a980))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/ac593d9d-0498-4a9f-9041-daba42aef47b"
           (reference "#PWR?") (unit 1)
         )
@@ -208,7 +208,7 @@
     (pin "1" (uuid 8c564c85-1f0a-4a6b-83cb-ae29b953efd3))
     (pin "2" (uuid fe940ecd-9310-41ac-8451-c5fd2cc537f8))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/ac593d9d-0498-4a9f-9041-daba42aef47b"
           (reference "SW1") (unit 1)
         )
@@ -233,7 +233,7 @@
     )
     (pin "1" (uuid f05cd7d4-8055-4e7c-9776-2a31719ebd22))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/ac593d9d-0498-4a9f-9041-daba42aef47b"
           (reference "#PWR?") (unit 1)
         )
@@ -258,7 +258,7 @@
     )
     (pin "1" (uuid 7ed7b233-45d3-4c05-a352-2bd79030a9c0))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/ac593d9d-0498-4a9f-9041-daba42aef47b"
           (reference "#PWR?") (unit 1)
         )
@@ -284,7 +284,7 @@
     (pin "1" (uuid da0916f2-c328-4970-9ded-b1a416335d08))
     (pin "2" (uuid 3e570281-393f-4ac6-91a4-7d6ec8688b87))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/ac593d9d-0498-4a9f-9041-daba42aef47b"
           (reference "SW4") (unit 1)
         )
@@ -310,7 +310,7 @@
     (pin "1" (uuid 322b0bd0-fd04-4132-872a-fc5990566932))
     (pin "2" (uuid a4046d35-929b-4b6f-b98d-b2787c4e2c89))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/ac593d9d-0498-4a9f-9041-daba42aef47b"
           (reference "SW2") (unit 1)
         )
@@ -335,7 +335,7 @@
     )
     (pin "1" (uuid 98b4fe3e-8b74-42a6-b7f7-6e73805f37ce))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/ac593d9d-0498-4a9f-9041-daba42aef47b"
           (reference "#PWR?") (unit 1)
         )
@@ -361,7 +361,7 @@
     (pin "1" (uuid 34e9342c-8eee-4939-8cfa-dc4223205859))
     (pin "2" (uuid 916e2ad2-e546-407a-9c7a-453d32d9dfd6))
     (instances
-      (project "Proposal_Schematic"
+      (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35/ac593d9d-0498-4a9f-9041-daba42aef47b"
           (reference "SW3") (unit 1)
         )
