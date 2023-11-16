@@ -992,7 +992,7 @@
     (property "Sheetname" "Gesture Sensor" (at 173.99 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "gesture_Sensor.kicad_sch" (at 173.99 83.82 0)
+    (property "Sheetfile" "gesture_sensor.kicad_sch" (at 173.99 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "G0" output (at 175.26 92.71 180)
