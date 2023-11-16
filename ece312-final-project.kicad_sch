@@ -713,7 +713,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid be8cc88b-da18-4886-9207-16aa8fde2de9)
   )
-  (hierarchical_label "DAC_I2C" (shape input) (at 175.26 109.22 0) (fields_autoplaced)
+  (hierarchical_label "DAC_I2C" (shape output) (at 175.26 109.22 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid dadb0fb9-e9f4-442f-ab24-6fe9a15f65cf)
   )
