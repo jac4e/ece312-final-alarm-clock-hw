@@ -741,6 +741,18 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 1393d26e-25b1-459f-9f6f-27a279780aa2)
     )
+    (pin "PLAYPAUSE" input (at 124.46 121.92 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 9ed4b5e8-c7dc-407b-b206-a8a25487552b)
+    )
+    (pin "PWM{slash}SEL0" input (at 119.38 121.92 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 6c9873c0-7f5f-41ab-87fa-b14ff1ef6d90)
+    )
+    (pin "SEL1" input (at 121.92 121.92 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 4bb3aad3-c583-4b8c-a4d2-11a886e333c6)
+    )
     (instances
       (project "ece312-final-project"
         (path "/fafbac94-05bd-4749-8502-4886ccc0ec35" (page "4"))
