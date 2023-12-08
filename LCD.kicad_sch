@@ -550,7 +550,7 @@
     (property "Reference" "RV1" (at 115.5699 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Potentiometer" (at 110.49 116.84 90)
+    (property "Value" "10k" (at 115.57 116.84 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (at 116.84 111.76 0)
